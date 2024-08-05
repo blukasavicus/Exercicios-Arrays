@@ -1,0 +1,10 @@
+1- Criar um array vazio e adicionar elementos numéricos nele. Adicionar 5 números e mostrar na tela os números do array.
+
+2-Adicionar e remover elementos
+Crie um array com três nomes de aniamis. Adicione um novo animal no final do array e remova o primeiro animal. Imprima o array  resultante.
+
+3- Declarar uma função para calcular o quadrado da soma de dois números.
+
+4- Usando o HTML e CSS, criar um formulário para validar os dados de entrada, login e senha. Usar a função para que ao clicar no botão, a mensage, de validação ou não, apareça na tela.
+
+5- Usando o HTML e o CSS, criar uma função para dar as boas vindas ao usuário na tela principal da página.
